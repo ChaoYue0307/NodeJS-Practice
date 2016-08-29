@@ -21,3 +21,5 @@ placeAnOrder(3);
 placeAnOrder(4);
 placeAnOrder(5);
 placeAnOrder(6);
+
+//This script is to prove multiple requests handling functionalities by nodejs
